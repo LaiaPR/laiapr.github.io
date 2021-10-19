@@ -5,7 +5,7 @@ date:   2021-05-13 20:30:07 +0100
 categories: jekyll update
 ---
 
-Ya había terminado de hacer todas las llamadas pendientes y por fin podía relajarse. Las maletas de Jorge preparadas frente a la puerta le observaban. No pudo soportarlo, así que decidió coger la silla y marcharse a la terraza. Al fin podía simplemente contemplar el mar, y todavía le quedaba por disfrutar de media copa de vino. 
+Ya había terminado de hacer todas las llamadas pendientes, por fin podía relajarse. Las maletas de Jorge preparadas frente a la puerta le observaban. No pudo soportarlo, así que decidió coger la silla y marcharse a la terraza. Al fin podía simplemente contemplar el mar, y todavía le quedaba por disfrutar de media copa de vino. 
 
 Aunque en realidad todavía le quedaban un par de temas que resolver, los más difíciles. Era tarde y estaba agotada mentalmente. O más bien derrotada. Estaba tan triste que no sentía nada, tan solo la presión en su pecho. Tenía miedo de la noche, sabía que no podría dormir. Su cabeza era un popurrí de escenas de las últimas horas, de emails y anotaciones en la libreta, de ropa sucia, de calor, de gritos, de ruido de puertas batiéndose y de cremalleras cerrándose, de lágrimas en el baño, de esa luna casi llena que había hoy sobre el mar. De tantas frases no dichas. De todo aquello que hubiera podido ser y que ahora ya no tenía sentido. Tanta prisa. Tantas obligaciones. Tanto luchar. Quizá por lo equivocado. 
 
