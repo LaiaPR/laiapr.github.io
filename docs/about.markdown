@@ -6,14 +6,15 @@ permalink: /about/
 
 This is me :)
 
-Aquí puedes encontrar cualquier cosa que me llegue a interesar: 
+Aquí (y sobretodo en mi Twitter) puedes encontrar cualquier cosa que me llegue a interesar: 
 
-- Agile y procesos de desarrollo
+- Agile y procesos de desarrollo de software
 - Management 3.0 y gestión de personas 
-- QA, testing, integración contínua...
+- QA, testing
 - Recetas (sí, de cocina)
-- Gatos 
 - Curly (Girl?) Method 
+- Gatos. Tengo dos: Jenkins y Ada 
+- y por supuesto... ¡mis relatos! 
 
 
 [jekyll-organization]: https://github.com/jekyll
