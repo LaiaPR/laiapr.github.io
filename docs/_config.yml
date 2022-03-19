@@ -21,11 +21,12 @@
 title: Laia is under construction
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Permanentemente en construcción. Tremenda e irremediablemente #HappyFlowerPower. Hater. Pirata. QA. She/her.
+  Permanentemente en construcción. Tremenda e irremediablemente #HappyFlowerPower. Hater. Pirata. QA. Ella/She/Her.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: afrikawinslet
 github_username:  LaiaPR
+google_analytics: G-7GEPN539M3
 
 # Build settings
 theme: minima
