@@ -36,3 +36,6 @@ y que un día dije que no sin querer, y al otro que sí sin pensarlo dos veces, 
 Algunas veces me pregunto si el tiempo vuelve a todo costumbre, olvida toda belleza, llena todo de vacío y te lo devuelve hecho harapos, sangrando de rutina.
 
 Algunas veces no quiero futuro... sólo quiero hoy, eternamente.
+
+
+_PD. Este texto fue publicado por primera vez el 4 de agosto de 2008._
