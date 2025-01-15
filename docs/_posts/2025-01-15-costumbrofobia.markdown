@@ -37,5 +37,6 @@ Algunas veces me pregunto si el tiempo vuelve a todo costumbre, olvida toda bell
 
 Algunas veces no quiero futuro... sólo quiero hoy, eternamente.
 
+<br>
 
 _PD. Este texto fue publicado por primera vez el 4 de agosto de 2008._
